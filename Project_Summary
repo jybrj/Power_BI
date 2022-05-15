@@ -1,0 +1,24 @@
+# Call Center Analysis
+
+ServiceSpot, an IT company, contacted you in order to help them analyze their call center data.
+They receive daily calls from their customers and would like to know how things are going.
+The data is split across multiple files, and they are unable to make good use of it.
+Your mission is to provide them with a complete solution which will help them analyze data through nice looking reports. Power BI seems to be the perfect tool for that mission (what a coincidence) !
+
+Goals of the project :
+•	Retrieve data from the many sources
+•	Apply necessary transformations in Power Query
+•	Design a proper data model
+•	Create any necessary measure that will answer business questions
+•	Design a nice-looking report, that provides all the answers the business needs (and even more !)
+
+Report expectations :
+The report pages must provide answers to the following questions :
+•	How many calls (% of total calls) are answered within the SLA (see “remarks” below) for each employee ?
+•	What is the average call time by employee ?
+•	What are the managers whose team answer most calls ? 
+•	What is the average waiting time for each time of the day ?
+o	Morning (6am – 12am), Afternoon (12am – 8pm), Night (8pm – 6am)
+•	Which states are generating the most revenue ?
+•	What is the day of the week when the company receives most calls ? And the least calls ?
+•	What is the average time before a call gets abandoned by the customer, for each call type ?
